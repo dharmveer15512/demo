@@ -539,9 +539,125 @@ export default function Home() {
         </div> 
 
     </div>
+    <div className="product-catagory-section section-top-gap-100">
+      
+        <div className="section-content-gap">
+            <div className="container-fluid">
+                <div className="row">
+                    <div className="section-content">
+                        <h3 className="section-title">Popular Categories</h3>
+                    </div>
+                </div>
+            </div>
+        </div> 
 
+       
+        <div className="product-catagory-wrapper">
+            <div className="container-fluid">
+                <div className="row">
+                    <div className="col-lg-3 col-md-4 col-sm-6 col-12">
+                      
+                        <a href="product-details-default.html" className="product-catagory-single">
+                            <div className="product-catagory-img">
+                                <img src="assets/images/categories_images/aments_categories_01.jpg" alt=""/>
+                            </div>
+                            <div className="product-catagory-content">
+                                <h5 className="product-catagory-title">Tyres</h5>
+                                <span className="product-catagory-items">(20 Items)</span>
+                            </div>
+                        </a> 
+                    </div>
+                    <div className="col-lg-3 col-md-4 col-sm-6 col-12">
+                     
+                        <a href="product-details-default.html" className="product-catagory-single">
+                            <div className="product-catagory-img">
+                                <img src="assets/images/categories_images/aments_categories_02.jpg" alt=""/>
+                            </div>
+                            <div className="product-catagory-content">
+                                <h5 className="product-catagory-title">Tyres</h5>
+                                <span className="product-catagory-items">(20 Items)</span>
+                            </div>
+                        </a> 
+                    </div>
+                    <div className="col-lg-3 col-md-4 col-sm-6 col-12">
+                       
+                        <a href="product-details-default.html" className="product-catagory-single">
+                            <div className="product-catagory-img">
+                                <img src="assets/images/categories_images/aments_categories_03.jpg" alt=""/>
+                            </div>
+                            <div className="product-catagory-content">
+                                <h5 className="product-catagory-title">Tyres</h5>
+                                <span className="product-catagory-items">(20 Items)</span>
+                            </div>
+                        </a> 
+                    </div>
+                    <div className="col-lg-3 col-md-4 col-sm-6 col-12">
+                      
+                        <a href="product-details-default.html" className="product-catagory-single">
+                            <div className="product-catagory-img">
+                                <img src="assets/images/categories_images/aments_categories_04.jpg" alt=""/>
+                            </div>
+                            <div className="product-catagory-content">
+                                <h5 className="product-catagory-title">Tyres</h5>
+                                <span className="product-catagory-items">(20 Items)</span>
+                            </div>
+                        </a> 
+                    </div>
+                    <div className="col-lg-3 col-md-4 col-sm-6 col-12">
+                       
+                        <a href="product-details-default.html" className="product-catagory-single">
+                            <div className="product-catagory-img">
+                                <img src="assets/images/categories_images/aments_categories_05.jpg" alt=""/>
+                            </div>
+                            <div className="product-catagory-content">
+                                <h5 className="product-catagory-title">Tyres</h5>
+                                <span className="product-catagory-items">(20 Items)</span>
+                            </div>
+                        </a> 
+                    </div>
+                    <div className="col-lg-3 col-md-4 col-sm-6 col-12">
+                        
+                        <a href="product-details-default.html" className="product-catagory-single">
+                            <div className="product-catagory-img">
+                                <img src="assets/images/categories_images/aments_categories_06.jpg" alt=""/>
+                            </div>
+                            <div className="product-catagory-content">
+                                <h5 className="product-catagory-title">Tyres</h5>
+                                <span className="product-catagory-items">(20 Items)</span>
+                            </div>
+                        </a> 
+                    </div>
+                    <div className="col-lg-3 col-md-4 col-sm-6 col-12">
+                       
+                        <a href="product-details-default.html" className="product-catagory-single">
+                            <div className="product-catagory-img">
+                                <img src="assets/images/categories_images/aments_categories_07.jpg" alt=""/>
+                            </div>
+                            <div className="product-catagory-content">
+                                <h5 className="product-catagory-title">Tyres</h5>
+                                <span className="product-catagory-items">(20 Items)</span>
+                            </div>
+                        </a> 
+                    </div>
+                    <div className="col-lg-3 col-md-4 col-sm-6 col-12">
+                       
+                        <a href="product-details-default.html" className="product-catagory-single">
+                            <div className="product-catagory-img">
+                                <img src="assets/images/categories_images/aments_categories_08.jpg" alt=""/>
+                            </div>
+                            <div className="product-catagory-content">
+                                <h5 className="product-catagory-title">Tyres</h5>
+                                <span className="product-catagory-items">(20 Items)</span>
+                            </div>
+                        </a> 
+                    </div>
+                </div>
+            </div>
+        </div> 
+    </div>
 <AddToCart />
 <ViewProduct />
+
       </main>
 
       
